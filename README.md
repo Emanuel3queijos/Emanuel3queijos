@@ -1,7 +1,7 @@
 # Hi, Emanuel Here😎
 - 🌱 I'm studying java web and data structure
   
-## Speak to me  <img height="20px" style="margin-top=20px" src="https://user-images.githubusercontent.com/101946589/234991163-713ba524-6f96-4e95-ae13-d0080ccf52a1.png">
+## Speak to me  <img height="20px" src="https://user-images.githubusercontent.com/101946589/234991163-713ba524-6f96-4e95-ae13-d0080ccf52a1.png">
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=LINK_GIT)](https://github.com/mano3queijos)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=LINK_GIT)](https://wa.me/5571983838579)
 <a hrfe="mailto:emanuel.almeida@ucsal.edu.br">
@@ -9,7 +9,6 @@
   </a>
 <a href="https://youtube.com/@emanuelalmeida7723">
 <img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;"></a> </a>
-   
    
    ## Languages and Tools:
    <div>
@@ -19,26 +18,28 @@
 
   <a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&langs_count=8&theme=radical">
-    
 
 
   <div/>
+   
+   
      
-     
-   <div>
-  
+       
   <a>
     <img align="center" height="25m" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" height="25m" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
          <img align="center" height="25m" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
          <img align="center" height="25m" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
-                                          
+
                                           
 
 
   <div/>
-     
+         
+ <a>
+    <img height="1em" src="https://user-images.githubusercontent.com/101946589/235003413-98aeed99-7006-434d-a64a-e7abde93b472.gif">
+   
     
   
 
