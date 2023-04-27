@@ -2,7 +2,12 @@
 - 🌱 Eu to estudando java web e estrutura de dados
   
 ## Speak to me  <img height="20px" style="margin-top=20px" src="https://user-images.githubusercontent.com/101946589/234991163-713ba524-6f96-4e95-ae13-d0080ccf52a1.png">
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/mano3queijos)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=LINK_GIT)](https://wa.me/5571983838579)
 
+ <a>
+    <img height="25m" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=LINK_GIT)](https://wa.me/5571983838579">
+  <a>
 
    
    <div>
