@@ -1,7 +1,8 @@
-### 
-
-Oi, Emanuel aqui😎
+### Oi, Emanuel aqui😎
 - 🌱 Eu to estudando java web e estrutura de dados
+  
+## Speak to me  <img height="20px" style="margin-top=20px" src="https://user-images.githubusercontent.com/101946589/234991163-713ba524-6f96-4e95-ae13-d0080ccf52a1.png">
+
 
    
    <div>
