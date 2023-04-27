@@ -7,10 +7,10 @@ Oi, Emanuel aqui😎
    <div>
   
   <a>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&theme=radical">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&theme=radical">
 
   <a>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&langs_count=8&theme=radical">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&langs_count=8&theme=radical">
 
   <div/>
      
