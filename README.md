@@ -2,6 +2,8 @@
 - 🌱 I'm studying java web and data structure
   
 ## Speak to me  <img height="20px" src="https://user-images.githubusercontent.com/101946589/234991163-713ba524-6f96-4e95-ae13-d0080ccf52a1.png">
+
+
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=LINK_GIT)](https://github.com/mano3queijos)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=LINK_GIT)](https://wa.me/5571983838579)
 <a hrfe="mailto:emanuel.almeida@ucsal.edu.br">
@@ -14,15 +16,15 @@
    <div>
   
   <a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&theme=radical">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&theme=radical">
 
   <a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&langs_count=8&theme=radical">
-
-
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&langs_count=8&theme=radical">
+    
+  <a>
+    <img height="175em" width="100em" src="https://media.tenor.com/8wBCqZH60U8AAAAC/computer-cat.gif">
   <div/>
-   
-   
+
      
        
   <a>
@@ -37,8 +39,8 @@
 
   <div/>
          
- <a>
-    <img height="1em" src="https://user-images.githubusercontent.com/101946589/235003413-98aeed99-7006-434d-a64a-e7abde93b472.gif">
+<!--  <a>
+    <img height="1em" src="https://user-images.githubusercontent.com/101946589/235003413-98aeed99-7006-434d-a64a-e7abde93b472.gif"> -->
    
     
   
