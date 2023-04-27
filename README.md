@@ -1,7 +1,22 @@
 ### Hi there 👋
 
+   
+   <div>
+  
+  <a>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&theme=radical">
+
+  <a>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&langs_count=8&theme=radical">
+
+  <div/>
+    
+  
+
+
+    
 <!--
-**mano3queijos/mano3queijos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mno3queijos/mano3queijos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
