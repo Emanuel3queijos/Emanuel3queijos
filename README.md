@@ -3,23 +3,26 @@
 - 🌱 I'm studying java web and data structure
 - 👨‍🎓 studying software engineering at ucsal
   
-## Speak to me  <img height="20px" src="https://user-images.githubusercontent.com/101946589/234991163-713ba524-6f96-4e95-ae13-d0080ccf52a1.png">
+## Speak to me  
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=LINK_GIT)](https://github.com/mano3queijos)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=LINK_GIT)](https://wa.me/5571983838579)
-<a text-decoration="none" hrewf="mailto:emanuel.almeida@ucsal.edu.br"><img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://youtube.com/@emanuelalmeida7723">
-<img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;"></a> 
+<div>
+  
+<a href="https://github.com/mano3queijos"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
+<a href="https://wa.me/5571983838579"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link"></a>
+<a style="text-decoration: none;" href="mailto:emanuel.almeida@ucsal.edu.br"><img                 src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+<a style="text-decoration: none;" href="https://youtube.com/@emanuelalmeida7723"><img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;"></a>
+  <div>
+ 
 ## Pages online
 
-<div style="display: flex; flex-wrap: wrap; margin: -10px;">
-  <a text-decoration="none" href="https://mano3queijos.github.io/heart/heart.html">
-    <img height="50px" src="https://user-images.githubusercontent.com/101946589/235334767-6ee68318-2daf-483a-8f83-c22e23cd7454.png">
-  </a>
-  <a text-decoration="none" href="https://mano3queijos.github.io/heart/heart.html">
-    <img height="50px" src="https://em-content.zobj.net/source/microsoft-teams/337/smiling-face-with-sunglasses_1f60e.png">
-  </a>
-</div>
+<a style="text-decoration: none;" href="https://mano3queijos.github.io/heart/heart.html">
+                    <img height="90px"
+                        src="https://user-images.githubusercontent.com/101946589/235334767-6ee68318-2daf-483a-8f83-c22e23cd7454.png">
+                </a>
+                <a href="https://mano3queijos.github.io/heart/heart.html">
+                    <img 
+                         src="https://user-images.githubusercontent.com/101946589/235397604-8c97851c-5d03-4bc7afd6f1b32f921c21.gif">
+                </a>
 
 ## Languages and Tools:
    <div>
