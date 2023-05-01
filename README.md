@@ -14,48 +14,40 @@
   <div>
  
 ## Pages online
+    
 
-<a style="text-decoration: none;" href="https://mano3queijos.github.io/heart/heart.html">
-                    <img height="90px"
-                        src="https://user-images.githubusercontent.com/101946589/235334767-6ee68318-2daf-483a-8f83-c22e23cd7454.png">
-                </a>
-                <a href="https://mano3queijos.github.io/heart/heart.html">
-                    <img 
-                         src="https://user-images.githubusercontent.com/101946589/235397604-8c97851c-5d03-4bc7afd6f1b32f921c21.gif">
-                </a>
+<div>
+<a href="#">
+  <img src="https://user-images.githubusercontent.com/101946589/235402029-d2fe3eac-5c66-404a-a6b4-4bdc8c2e1948.gif" alt="Descrição da imagem">
+</a>
+<a href="https://mano3queijos.github.io/heart/heart.html"><img height="130px" src="https://user-images.githubusercontent.com/101946589/235334767-6ee68318-2daf-483a-8f83-c22e23cd7454.png"></a>
+
+</div>
 
 ## Languages and Tools:
    <div>
   
-  <a>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&theme=radical">
-  <a/>
+<a><img height="175em" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&theme=radical"></a>
+<a><img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&langs_count=8&theme=radical"></a>
+<a><img height="175em" width="100em" src="https://media.tenor.com/8wBCqZH60U8AAAAC/computer-cat.gif"></a>
 
-  <a>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&langs_count=8&theme=radical">
-      <a/>
-
-    
- <a>
-    <img height="175em" width="100em" src="https://media.tenor.com/8wBCqZH60U8AAAAC/computer-cat.gif">
-      <a/>
- 
 
                                           
 
 
   <div/>
-       <img align="center" height="25m" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" height="25m" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-         <img align="center" height="25m" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-         <img align="center" height="25m" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+   <img style="align-items: center;" height="25m"
+            src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img style="align-items: center;" height="25m"
+            src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img style="align-items: center;" height="25m"
+            src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+        <img style="align-items: center;" height="25m"
+            src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
 
-    
-  
 
-
-    
+   
 <!--
 **mno3queijos/mano3queijos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
