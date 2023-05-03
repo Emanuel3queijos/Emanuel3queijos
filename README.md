@@ -1,7 +1,8 @@
 # Hi, Emanuel Here😎
-- 💻I'm proficient in Java, HTML, CSS, and Bootstrap
-- 🌱 I'm studying java web and data structure
-- 👨‍🎓 studying software engineering at ucsal
+- 💻I'm proficient in Java, HTML, CSS, and Bootstrap;
+- 🌱 I'm studying java web and data structure;
+- 👨‍🎓 studying software engineering at ucsal;
+
   
 ## Speak to me  
 
