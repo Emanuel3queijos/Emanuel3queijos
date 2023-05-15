@@ -1,7 +1,7 @@
 
 <!--   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/568234390568566784?bg=transparent)](https://discord.com/users/568234390568566784)
  -->
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2214ff&height=120&section=top"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A65FF9&height=120&section=top"/>
 
 
 <div align="center">
@@ -42,9 +42,9 @@
   <br>
 <br>
   
-<img width="450px" height="195px" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&count_private=true&hide_border=true&title_color=&text_color=2214ff&bg_color=0d1117" alt="mano3queijos github stats"/> 
+<img width="450px" height="195px" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&count_private=true&hide_border=true&title_color=&text_color=&bg_color=0d1117" alt="mano3queijos github stats"/> 
   
-  <img width="350px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&layout=compact&hide_border=true&title_color=&text_color=2214ff&bg_color=0d1117"/>
+  <img width="350px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&layout=compact&hide_border=true&title_color=&text_color=&bg_color=0d1117"/>
 
   
 <br>
@@ -91,7 +91,7 @@
  
 <a href="https://git.io/typing-svg"><img width="100%" height="100px" src="https://readme-typing-svg.demolab.com?weight=700&size=32&duration=2200&pause=1000&color=9760FF&vCenter=true&multiline=true&width=1300&height=150&separator=%3C&lines=%F0%9F%98%8E+I'm+proficient+in+Java%2C+HTML%2C+CSS%2C+and+Bootstrap;%3C%F0%9F%A4%8E+I'm+studying+java+web%2C+data+structure+mySQL%2C+spring+MVC+and+jS;%3C%F0%9F%90%B5+studying+software+engineering+at+ucsal;"></a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2214ff&width=100%&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A65FF9&width=100%&height=120&section=footer"/>
 
 
 <!-- 
