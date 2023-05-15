@@ -1,14 +1,16 @@
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/568234390568566784?bg=transparent)](https://discord.com/users/568234390568566784)
 
 
 <div align="center">
   
-  
-# Pages online:
-</div>   
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/568234390568566784?bg=transparent)](https://discord.com/users/568234390568566784)
 
   
+</div>   
+
+# Pages online:
+
+
 <br>
 <br>
 
