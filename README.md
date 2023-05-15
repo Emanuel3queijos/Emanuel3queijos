@@ -90,7 +90,10 @@
 - 🌱 I'm studying java web, data structure mySQL, spring MVC and jS;
 - 👨‍🎓 studying software engineering at ucsal;  
 
-
+<br>
+<br>
+<br>
+<br>
    
 <!--
 **mno3queijos/mano3queijos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
