@@ -1,6 +1,8 @@
 
 <!--   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/568234390568566784?bg=transparent)](https://discord.com/users/568234390568566784)
  -->
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
+
 <div align="center">
   
    <a  style="text-decoration: none;" href="https://discord.com/users/568234390568566784"><img src="https://lanyard-profile-readme.vercel.app/api/568234390568566784?bg=transparent"></a>
