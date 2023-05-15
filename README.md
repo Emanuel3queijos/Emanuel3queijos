@@ -3,7 +3,11 @@
 - 🌱 I'm studying java web, data structure mySQL, spring MVC and jS;
 - 👨‍🎓 studying software engineering at ucsal;
 
-  
+[![Discord Presence](https://lanyard.cnrad.dev/api/568234390568566784)](https://discord.com/users/568234390568566784)
+
+
+
+
 ## Speak to me  
 
 <div>
