@@ -1,4 +1,5 @@
-.profile {
+
+.texto-colorido {
   background: linear-gradient(
     180deg,
     #fc0000,
@@ -8,4 +9,3 @@
     #1d93f8,
     #741899
   );
-}
