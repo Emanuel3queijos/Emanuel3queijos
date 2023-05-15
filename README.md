@@ -38,7 +38,7 @@
   <br>
 <br>
   
-<img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&count_private=true&hide_border=true&title_color=&text_color=2214ff&bg_color=0d1117" alt="mano3queijos github stats"/> 
+<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&count_private=true&hide_border=true&title_color=&text_color=2214ff&bg_color=0d1117" alt="mano3queijos github stats"/> 
   
   <img width="40%"  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&layout=compact&hide_border=true&title_color=&text_color=2214ff&bg_color=0d1117"/>
 
