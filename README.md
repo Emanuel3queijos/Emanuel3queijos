@@ -73,6 +73,11 @@
   
 # Speak to me:
 
+ 
+ <div align="center">
+  
+<br>
+<br>
   
 <a href="https://github.com/mano3queijos"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/emanuel-santos-almeida-5617b7232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -83,17 +88,17 @@
 
 </div>  
  
+<div align="center">
 
-     
-
-  
-
-- 💻I'm proficient in Java, HTML, CSS, and Bootstrap;
-- 🌱 I'm studying java web, data structure mySQL, spring MVC and jS;
-- 👨‍🎓 studying software engineering at ucsal;  
-
+      
+[![Typing SVG](https://readme-typing-svg.demolab.com?weight=700&size=32&duration=2200&pause=1000&color=9760FF&vCenter=true&multiline=true&width=1300&height=150&separator=%3C&lines=%F0%9F%98%8E+I'm+proficient+in+Java%2C+HTML%2C+CSS%2C+and+Bootstrap;%3C%F0%9F%A4%8E+I'm+studying+java+web%2C+data+structure+mySQL%2C+spring+MVC+and+jS;%3C%F0%9F%90%B5+studying+software+engineering+at+ucsal;)](https://git.io/typing-svg)
+ 
+ 
+</div>
 <br>
 <br>
+
+
 <br>
 <br>
 <!-- 
