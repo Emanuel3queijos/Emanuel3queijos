@@ -96,12 +96,12 @@
 <br>
 <br>
 <br>
-
+<!-- 
 ![github-contribution-grid-snake](https://github.com/mano3queijos/mano3queijos/blob/output/github-contribution-grid-snake.svg)
 
 
-![snake gif](https://github.com/mano3queijos/mano3queijos/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/mano3queijos/mano3queijos/blob/https://raw.githubusercontent.com/mano3queijos/mano3queijos/master/cobrinha.yml)
+ -->
 <!-- ![github-contribution-grid-snake](https://github.com/mano3queijos/mano3queijos/assets/101946589/ba9a1b05-12fc-4574-9ff4-82ec4656c03b)
  -->
 
