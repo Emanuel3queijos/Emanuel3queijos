@@ -1,3 +1,5 @@
+
+
 # Hi, Emanuel Here😎
 - 💻I'm proficient in Java, HTML, CSS, and Bootstrap;
 - 🌱 I'm studying java web, data structure mySQL, spring MVC and jS;
@@ -22,7 +24,7 @@
 ## Pages online
     
 
-<div>
+<div align="center">
 <a style="text-decoration: none;" href="https://mano3queijos.github.io/bonfireWebsite/index.html"><img src="https://user-images.githubusercontent.com/101946589/235402029-d2fe3eac-5c66-404a-a6b4-4bdc8c2e1948.gif"></a>
 <a style="text-decoration: none;" href="https://mano3queijos.github.io/heart/heart.html"><img height="130px" src="https://user-images.githubusercontent.com/101946589/235334767-6ee68318-2daf-483a-8f83-c22e23cd7454.png"></a>
 <a style="text-decoration: none;" href="https://mano3queijos.github.io/pinkFloydFanPage/"><img height="130px" src="https://user-images.githubusercontent.com/101946589/235408950-bcb283e9-3f7a-4d7c-90fb-38bea64408ab.png"></a>
@@ -32,10 +34,18 @@
 ## Languages and Tools:
    <div>
   
-<a><img height="175em" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&theme=radical"></a>
-<a><img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&langs_count=8&theme=radical"></a>
+<!-- <a><img height="175em" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&theme=radical"></a>
+<a><img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&langs_count=8&"></a>
+ -->
+ <div align="center">  
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&count_private=true&hide_border=true&title_color=2214ff&icon_color=&text_color=2214ff&bg_color=0d1117" alt="mano3queijos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&layout=compact&hide_border=true&title_color=2214ff&text_color=2214ff&bg_color=0d1117" />
+   
+   
+</div>
 
   <div/>
+
      
 <div>
 <a href="https://www.devmedia.com.br/o-que-e-o-html5/25820"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> 
@@ -68,3 +78,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
