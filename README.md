@@ -14,6 +14,12 @@
 <a style="text-decoration: none;" href="https://mano3queijos.github.io/pinkFloydFanPage/"><img height="130px" src="https://user-images.githubusercontent.com/101946589/235408950-bcb283e9-3f7a-4d7c-90fb-38bea64408ab.png"></a>
 
   
+<br>
+<br>
+<br>
+<br>
+  
+  
 # Languages and Tools:
   
 <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&count_private=true&hide_border=true&title_color=&text_color=2214ff&bg_color=0d1117" alt="mano3queijos github stats"/> 
@@ -33,6 +39,12 @@
 <a href="https://www.eclipse.org/downloads/"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a> 
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a> 
 </div>
+  
+<br>
+<br>
+<br>
+<br>
+
   
 # Speak to me:
 
