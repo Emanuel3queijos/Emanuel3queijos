@@ -4,10 +4,10 @@
   
   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/568234390568566784?bg=transparent)](https://discord.com/users/568234390568566784)
  
-  <a style="text-decoration: none;" href="https://discord.com/users/568234390568566784"><img src="https://lanyard-profile-readme.vercel.app/api/568234390568566784?bg=transparent"></a>
+ 
 </div>   
 
-
+ <a align="center" style="text-decoration: none;" href="https://discord.com/users/568234390568566784"><img src="https://lanyard-profile-readme.vercel.app/api/568234390568566784?bg=transparent"></a>
 # Pages onlne:
 
 <div align="center">
