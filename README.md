@@ -7,7 +7,7 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/568234390568566784?bg=transparent)](https://discord.com/users/568234390568566784)
   
 # Pages online:
-    
+</div>   
   
 <br>
 <br>
@@ -25,10 +25,17 @@
   
 # Languages and Tools:
   
+    
+<br>
+<br>
+  
 <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&count_private=true&hide_border=true&title_color=&text_color=2214ff&bg_color=0d1117" alt="mano3queijos github stats"/> 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&layout=compact&hide_border=true&title_color=&text_color=2214ff&bg_color=0d1117"/>
 
+  
+<br>
+<br>
   
 <div align="center">
 <a href="https://www.devmedia.com.br/o-que-e-o-html5/25820"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> 
