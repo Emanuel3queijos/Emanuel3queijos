@@ -30,11 +30,6 @@
   
 <a><img height="175em" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&theme=radical"></a>
 <a><img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&langs_count=8&theme=radical"></a>
-<a><img height="175em" width="100em" src="https://media.tenor.com/8wBCqZH60U8AAAAC/computer-cat.gif"></a>
-
-
-                                          
-
 
   <div/>
      
