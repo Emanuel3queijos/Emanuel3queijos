@@ -1,11 +1,18 @@
 
 
-# Hi, Emanuel Here😎
 - 💻I'm proficient in Java, HTML, CSS, and Bootstrap;
 - 🌱 I'm studying java web, data structure mySQL, spring MVC and jS;
-- 👨‍🎓 studying software engineering at ucsal;
+- 👨‍🎓 studying software engineering at ucsal;  
 
+
+
+<div align="center">
+  
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/568234390568566784?bg=transparent)](https://discord.com/users/568234390568566784)
+
+</div>  
+  
+  
 
 
 
@@ -40,14 +47,14 @@
      
      
 <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=&text_color=&bg_color=0d1117" alt="mano3queijos github stats"/> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="mano3queijos github stats"/> 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&layout=compact&hide_border=true&title_color=&text_color=2214ff&bg_color=0d1117"/>
   
 </div>
 
      
-<div>
+<div align="center"align="center">
 <a href="https://www.devmedia.com.br/o-que-e-o-html5/25820"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>       
 <a href="https://www.oracle.com/br/java/technologies/downloads/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>      
@@ -58,7 +65,7 @@
 <a href="https://www.microsoft.com/pt-br/windows/?r=1"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> 
 <a href="https://www.eclipse.org/downloads/"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a> 
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a> 
-<div/>
+</div>
 
 
 
