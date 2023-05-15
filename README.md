@@ -37,25 +37,13 @@
 <!-- <a><img height="175em" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&theme=radical"></a>
 <a><img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&langs_count=8&"></a>
  -->
- <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&count_private=true&hide_border=true&title_color=2214ff&icon_color=&text_color=2214ff&bg_color=0d1117" alt="mano3queijos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&layout=compact&hide_border=true&title_color=2214ff&text_color=2214ff&bg_color=0d1117" />
-   
-   
-</div>
+     
+     
 <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&count_private=true&hide_border=true&title_color=2214ff&icon_color=&text_color=2214ff&bg_color=0d1117" alt="mano3queijos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&layout=compact&hide_border=true&title_color=2214ff&text_color=2214ff&bg_color=0d1117" />
-</div>
-<style>
-  @import url('style.css');
-</style>
-<div/>
-     
-     
-<div align="center" style="background-image: linear-gradient(180deg, #fc0000, #ff8c11, #fff301, #12c348, #1d93f8, #741899);">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&count_private=true&hide_border=true&title_color=2214ff&icon_color=&text_color=2214ff&bg_color=0d1117" alt="mano3queijos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&layout=compact&hide_border=true&title_color=2214ff&text_color=2214ff&bg_color=0d1117" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=&text_color=&bg_color=0d1117" alt="mano3queijos github stats"/> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&layout=compact&hide_border=true&title_color=&text_color=2214ff&bg_color=0d1117"/>
+  
 </div>
 
      
