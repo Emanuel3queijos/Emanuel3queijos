@@ -1,8 +1,8 @@
 
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/568234390568566784?bg=transparent)](https://discord.com/users/568234390568566784)
 
 <div align="center">
   
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/568234390568566784?bg=transparent)](https://discord.com/users/568234390568566784)
  
  
 </div>   
@@ -39,9 +39,9 @@
   <br>
 <br>
   
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&count_private=true&hide_border=true&title_color=&text_color=2214ff&bg_color=0d1117" alt="mano3queijos github stats"/> 
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=mano3queijos&show_icons=true&count_private=true&hide_border=true&title_color=&text_color=2214ff&bg_color=0d1117" alt="mano3queijos github stats"/> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&layout=compact&hide_border=true&title_color=&text_color=2214ff&bg_color=0d1117"/>
+  <img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mano3queijos&layout=compact&hide_border=true&title_color=&text_color=2214ff&bg_color=0d1117"/>
 
   
 <br>
