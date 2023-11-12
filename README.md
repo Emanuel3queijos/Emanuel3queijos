@@ -94,7 +94,8 @@
 <a href="https://www.typescriptlang.org"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="https://angular.io"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
 <a href="https://www.docker.com"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
-
+<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
+ 
 </div>
   
 <br>
@@ -128,6 +129,19 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A65FF9&width=100%&height=120&section=footer"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- 
