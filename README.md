@@ -104,9 +104,9 @@
 </div>  
  <br>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=980&pause=300&color=FF8C10&background=FFFFFF00&center=true&multiline=true&repeat=false&random=false&width=1400&height=200&lines=Hi+Emanuel+here;I+am+proficient+in+Java+Web%2C+Spring+boot%2C+PostgreSQL%2C+Bootstrap+5+and+Agular+Cli;+Currently+studying+Software+Engineering+at+Ucsal;+I'm+studying+Spring+security" alt="Typing SVG" /></a>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=980&pause=300&color=FF8C10&background=FFFFFF00&center=true&multiline=true&repeat=false&random=false&width=1400&height=200&lines=Hi+Emanuel+here;I+am+proficient+in+Java+Web%2C+Spring+boot%2C+PostgreSQL%2C+Bootstrap+5+and+Agular+Cli;+Currently+studying+Software+Engineering+at+Ucsal;+I'm+studying+Spring+security" alt="Typing SVG" /></a>
 
-
+ -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&width=100%&height=120&section=footer"/>
 
 
