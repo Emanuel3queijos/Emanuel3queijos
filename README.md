@@ -2,7 +2,7 @@
 
 <!--   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/568234390568566784?bg=transparent)](https://discord.com/users/568234390568566784)
  -->
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A65FF9&height=120&section=top"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=top"/>
 <!-- 
        \           HELLO           /
          \                         /
@@ -126,10 +126,10 @@
 <br>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=700&size=35&duration=2200&pause=1000&color=9760FF&vCenter=true&multiline=true&width=1401&height=200&separator=%3C&lines=%F0%9F%98%8E+I'm+proficient+in+java%2C+html%2C+css%2C+bootstrap+5+and+Postgresql;%3C%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Studying+software+engineering+at+ucsal;%3C%F0%9F%90%B5+I'm+studying+advanced+java%2C+javaScript%2C+Postgresql+and+Angular;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=700&size=35&duration=2200&pause=1000&color=FF0000&vCenter=true&multiline=true&width=1401&height=200&separator=%3C&lines=%F0%9F%98%8E+I'm+proficient+in+java%2C+html%2C+css%2C+bootstrap+5+and+Postgresql;%3C%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Studying+software+engineering+at+ucsal;%3C%F0%9F%90%B5+I'm+studying+advanced+java%2C+javaScript%2C+Postgresql+and+Angular;" alt="Typing SVG" /></a>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A65FF9&width=100%&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&width=100%&height=120&section=footer"/>
 
 
 
