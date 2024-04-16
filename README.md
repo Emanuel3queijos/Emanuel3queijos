@@ -24,7 +24,7 @@
 
 <!--   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/568234390568566784?bg=transparent)](https://discord.com/users/568234390568566784)
  -->
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=top"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=top"/>
 
 
 <div align="center">
@@ -36,7 +36,7 @@
  
 </div>   
 
-# Pages online:
+## Pages online:
 
 <div align="center">
 
@@ -60,7 +60,7 @@
 
 
   
-# Languages and Tools:
+## Languages and Tools:
   
     
    <div align="center">
@@ -106,7 +106,7 @@
 <br>
 
   
-# Speak to me:
+## Speak to me:
 
  
  <div align="center">
