@@ -24,12 +24,12 @@
 
 <!--   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/568234390568566784?bg=transparent)](https://discord.com/users/568234390568566784)
  -->
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=top"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c3a5e&height=100&section=top"/>
 
 
 <div align="center">
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=980&pause=300&color=FF8C10&background=FFFFFF00&center=true&multiline=true&repeat=false&random=false&width=1400&height=200&lines=Hi+Emanuel+here;I+am+proficient+in+Java+Web%2C+Spring+boot%2C+PostgreSQL%2C+Bootstrap+5+and+Agular+Cli;+Currently+studying+Software+Engineering+at+Ucsal;+I'm+studying+ SPRING SECURITY" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=980&pause=300&color=4c3a5e&background=FFFFFF00&center=true&multiline=true&repeat=false&random=false&width=1400&height=200&lines=Hi+Emanuel+here;I+am+proficient+in+Java+Web%2C+Spring+boot%2C+PostgreSQL%2C+Bootstrap+5+and+Agular+Cli;+Currently+studying+Software+Engineering+at+Ucsal;+I'm+studying+ SPRING SECURITY" alt="Typing SVG" /></a>
 
 
    <a  style="text-decoration: none;" href="https://discord.com/users/568234390568566784"><img src="https://lanyard-profile-readme.vercel.app/api/568234390568566784?bg=transparent"></a>
@@ -127,8 +127,7 @@
 <br>
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=980&pause=300&color=FF8C10&background=FFFFFF00&center=true&multiline=true&repeat=false&random=false&width=1400&height=200&lines=Hi+Emanuel+here;I+am+proficient+in+Java+Web%2C+Spring+boot%2C+PostgreSQL%2C+Bootstrap+5+and+Agular+Cli;+Currently+studying+Software+Engineering+at+Ucsal;+I'm+studying+Spring+security" alt="Typing SVG" /></a>
 
- -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&width=100%&height=120&section=footer"/>
+ 
 
 
 
