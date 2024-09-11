@@ -35,7 +35,7 @@
 
 
 
-   <a  style="text-decoration: none;" href="https://discord.com/users/568234390568566784"><img src="https://lanyard-profile-readme.vercel.app/api/568234390568566784?bg=transparent"></a>
+   <a  style="text-decoration: none;" href="https://discord.com/users/539692548805885952"><img src="https://lanyard-profile-readme.vercel.app/api/539692548805885952?bg=transparent"></a>
  
 </div>   
 
