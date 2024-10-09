@@ -12,6 +12,11 @@
 </div>
 
 ## Linguagens e Ferramentas:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,angular&theme=light" />
+  </a>
+</p>
 
 <div align="center">
 <br>
