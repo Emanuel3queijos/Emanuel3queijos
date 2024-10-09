@@ -20,13 +20,12 @@
 
 ## Meus contatos:
 
-
-<div align="center">
-  <a style="text-decoration: none; display: inline-block; margin-right: 10px;" href="https://www.linkedin.com/in/emanuel-almeida-5617b7232/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://www.linkedin.com/in/emanuel-almeida-5617b7232/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a style="text-decoration: none; display: inline-block;" href="mailto:emanuel.almeida@ucsal.edu.br">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+  <a href="mailto:emanuel.almeida@ucsal.edu.br" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
 <br>
