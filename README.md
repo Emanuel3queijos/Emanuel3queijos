@@ -14,7 +14,7 @@
 ## Linguagens e Ferramentas:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,angular&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,python,aws,angular,html,scss,typescript,javascript,bootstrap&theme=light" />
   </a>
 </p>
 
@@ -29,15 +29,6 @@
 <br>
 <br>
 </div> 
-
-<div align="center">
-<a href="https://www.oracle.com/br/java/technologies/downloads/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>      
-<a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a> 
-<a href="https://www.typescriptlang.org"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a> 
-<a href="https://angular.io"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a> 
-</div>
-<br>
-<br>
 
 ## Manda um oi:
 
