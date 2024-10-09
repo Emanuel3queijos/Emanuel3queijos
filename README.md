@@ -21,30 +21,23 @@
 ## Manda um oi:
 
 
-<div align="left" style="padding-left: 20px;">
+<div align="center">
   <a href="https://www.linkedin.com/in/emanuel-almeida-5617b7232/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
-  <a href="https://wa.me/5571983838579">
-    <img src="https://skillicons.dev/icons?i=whatsapp&theme=light" />
-  </a>
   <a style="text-decoration: none;" href="mailto:emanuel.almeida@ucsal.edu.br">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
-  <a style="text-decoration: none;" href="https://youtube.com/@emanuelalmeida7723">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="max-width: 100%;">
+    <a style="text-decoration: none;" href="mailto:emanuel.almeida@ucsal.edu.br">
   </a>
+
+ <a style="text-decoration: none;" href="https://discord.com/users/539692548805885952"><img src="https://lanyard-profile-readme.vercel.app/api/539692548805885952?bg=transparent">
+     <img src="https://skillicons.dev/icons?i=discord&theme=light" />
+
+ </a>
+  
 </div>  
 <br>
-
-<div align="left" style="padding-left: 20px;">
-  <br>
-
-
-  </a>
-  <br>
-  <br>
-</div>
 
 <div align="center">
   Obrigado por ler até aqui S2
