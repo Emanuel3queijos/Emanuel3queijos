@@ -14,7 +14,7 @@
 ## Linguagens e Ferramentas:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,aws,angular,html,scss,typescript,javascript,bootstrap&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,python,aws,postgresql,sqlite,angular,html,scss,typescript,javascript,bootstrap&theme=light" />
   </a>
 </p>
 
