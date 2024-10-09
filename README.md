@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=633de0&height=100&section=top"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=980&pause=300&color=ffffff&background=FFFFFF00&center=true&multiline=true&repeat=false&random=false&width=1400&height=200&lines=Oi+Emanuel+aqui;Possuo uma boa base em Java Web, incluindo Spring, APIs e microserviços;Atualmente, estou me aprofundando em Análise de Dados com Python;Além disso, estou realizando cursos da AWS focados em Data Engineering e explorando conceitos de compiladores." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=980&pause=300&color=ffffff&background=FFFFFF00&center=true&multiline=true&repeat=false&random=false&width=1400&height=200&lines=Oi+Emanuel+aqui;Possuo uma boa base em Java Web, incluindo Spring, APIs e microserviços;Atualmente, estou me aprofundando em Análise de Dados com Python;Além disso, estou realizando cursos da AWS focados em Data Engineering" alt="Typing SVG" />
 
 
 ## Linguagens e Ferramentas:
