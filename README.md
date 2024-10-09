@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=633de0&height=100&section=top"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=980&pause=300&color=633de0&background=FFFFFF00&center=true&multiline=true&repeat=false&random=false&width=1400&height=200&lines=Oi+Emanuel+aqui;Sou+profissional+em+Java+Web%2C+Spring+Boot%2C+PostgreSQL%2C+Bootstrap+5+e+Angular+CLI;+Atualmente+estudando+Engenharia+de+Software+na+UCSAL;+Estou+estudando+Python+e+Análise+de+Dados" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=980&pause=300&color=ffffff&background=FFFFFF00&center=true&multiline=true&repeat=false&random=false&width=1400&height=200&lines=Oi+Emanuel+aqui;Tenho+bons+principios+em+Java+Web%2C+Spring+Boot%2C+PostgreSQL%2C+Bootstrap+5+e+Angular+CLI;+Atualmente+estudando+Engenharia+de+Software+na+UCSAL;+Estou+estudando+Python+e+Análise+de+Dados" alt="Typing SVG" />
 
 ## Aquele portfólio só pra dizer que tem:
 
