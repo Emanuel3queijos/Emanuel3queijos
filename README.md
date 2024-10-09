@@ -7,7 +7,7 @@
 <br>
 <br>
 <a style="text-decoration: none;" href="https://Emanuel3queijos.github.io/bonfireWebsite/index.html"><img src="https://user-images.githubusercontent.com/101946589/235402029-d2fe3eac-5c66-404a-a6b4-4bdc8c2e1948.gif"></a>
-<a style="text-decoration: none;" href="https://Emanuel3queijos.github.io/heart/heart.html"><img height="130px" src="https://user-images.githubusercontent.com/101946589/235334767-6ee68318-2daf-483a-8f83-c22e23cd7454.png"></a>
+
 <br>
 <br>
 
@@ -51,6 +51,18 @@
 <a href="https://wa.me/5571983838579"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link"></a>
 <a style="text-decoration: none;" href="mailto:emanuel.almeida@ucsal.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 <a style="text-decoration: none;" href="https://youtube.com/@emanuelalmeida7723"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="max-width: 100%;"></a>
+
+</div>  
+<br>
+<br>
+  
+
+<div align="center">
+ ## Obrigada por ler ate aqui
+<br>
+<br>
+ 
+<a style="text-decoration: none;" href="https://Emanuel3queijos.github.io/heart/heart.html"><img height="130px" src="https://user-images.githubusercontent.com/101946589/235334767-6ee68318-2daf-483a-8f83-c22e23cd7454.png"></a>
 
 </div>  
 <br>
