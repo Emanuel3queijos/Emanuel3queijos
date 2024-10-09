@@ -6,7 +6,7 @@
 ## Linguagens e Ferramentas:
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,aws,postgresql,sqlite,angular,html,scss,typescript,javascript,bootstrap&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,aws,postgresql,sqlite,angular,html,scss,typescript,javascript,bootstrap&theme=light" />
   </a>
 </div>
 
@@ -19,12 +19,14 @@
 </div>
 
 ## Manda um oi:
+
+
 <div align="left" style="padding-left: 20px;">
   <a href="https://www.linkedin.com/in/emanuel-almeida-5617b7232/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
   <a href="https://wa.me/5571983838579">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link">
+    <img src="https://skillicons.dev/icons?i=whatsapp&theme=light" />
   </a>
   <a style="text-decoration: none;" href="mailto:emanuel.almeida@ucsal.edu.br">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
