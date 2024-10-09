@@ -31,7 +31,6 @@
 <br>
 
 <div align="center">
-  Obrigado por ler até aqui S2
   <br>
   <br>
   <a style="text-decoration: none;" href="https://Emanuel3queijos.github.io/heart/heart.html">
