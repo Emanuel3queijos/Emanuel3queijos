@@ -31,6 +31,8 @@
 <br>
 
 <div align="center">
+
+  OBRIGADA POR LER S2
   <br>
   <br>
   <a style="text-decoration: none;" href="https://Emanuel3queijos.github.io/heart/heart.html">
