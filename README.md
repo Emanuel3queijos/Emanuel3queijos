@@ -22,13 +22,15 @@
 
 
 <div align="center">
-  <a  style="text-decoration: none;"href="https://www.linkedin.com/in/emanuel-almeida-5617b7232/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light"/>
+  <a style="text-decoration: none; display: inline-block; margin-right: 10px;" href="https://www.linkedin.com/in/emanuel-almeida-5617b7232/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
-  <a style="text-decoration: none;" href="mailto:emanuel.almeida@ucsal.edu.br">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light"/>
-</div>  
+  <a style="text-decoration: none; display: inline-block;" href="mailto:emanuel.almeida@ucsal.edu.br">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+  </a>
+</div>
 <br>
+
 
 <div align="center">
 
