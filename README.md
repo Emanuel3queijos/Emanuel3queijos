@@ -6,7 +6,7 @@
 ## Linguagens e Ferramentas:
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,aws,postgresql,sqlite,angular,html,scss,typescript,javascript,bootstrap&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,idea,pycharm,python,aws,postgresql,sqlite,angular,html,scss,typescript,javascript,bootstrap&theme=light" />
   </a>
 </div>
 
