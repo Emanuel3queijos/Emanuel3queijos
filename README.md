@@ -18,19 +18,16 @@
   </a>
 </div>
 
-## Manda um oi:
+## Meus contatos::
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/emanuel-almeida-5617b7232/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+  <a  style="text-decoration: none;"href="https://www.linkedin.com/in/emanuel-almeida-5617b7232/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light"/>
   </a>
   <a style="text-decoration: none;" href="mailto:emanuel.almeida@ucsal.edu.br">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
-  </a>
-    <a style="text-decoration: none;" href="mailto:emanuel.almeida@ucsal.edu.br">
-  </a>
-
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light"/>
+    
  <a style="text-decoration: none;" href="https://discord.com/users/539692548805885952"><img src="https://lanyard-profile-readme.vercel.app/api/539692548805885952?bg=transparent">
      <img src="https://skillicons.dev/icons?i=discord&theme=light" />
 
