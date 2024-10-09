@@ -18,7 +18,7 @@
   </a>
 </div>
 
-## Meus contatos::
+## Meus contatos:
 
 
 <div align="center">
