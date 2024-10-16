@@ -4,10 +4,11 @@
 
 
 ## Linguagens e Ferramentas:
-<div align="center">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
+    <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,idea,pycharm,python,aws,postgresql,sqlite,angular,html,scss,typescript,javascript,bootstrap&theme=light" />
 </div>
-
+</a>
 <div align="center">
   <br>
   <img width="350px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel3queijos&layout=compact&hide_border=true&title_color=A65FF9&text_color=A65FF9&bg_color=0d1117"/>
