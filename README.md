@@ -11,7 +11,12 @@
 </a>
 <div align="center">
   <br>
+
+  <a style="text-decoration: none;" href="https://Emanuel3queijos.github.io/bonfireWebsite/index.html">
+      
   <img width="350px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel3queijos&layout=compact&hide_border=true&title_color=A65FF9&text_color=A65FF9&bg_color=0d1117"/>
+  </a>
+
   <a style="text-decoration: none;" href="https://Emanuel3queijos.github.io/bonfireWebsite/index.html">
     <img src="https://user-images.githubusercontent.com/101946589/235402029-d2fe3eac-5c66-404a-a6b4-4bdc8c2e1948.gif">
   </a>
