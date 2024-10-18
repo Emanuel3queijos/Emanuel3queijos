@@ -4,7 +4,7 @@
 
 
 ## Linguagens e Ferramentas:
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
+<a href="https://www.youtube.com/watch?v=amXl7FG7J4c&ab_channel=4yvn">
     <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,idea,pycharm,python,aws,postgresql,sqlite,angular,html,scss,typescript,javascript,bootstrap&theme=light" />
 </div>
