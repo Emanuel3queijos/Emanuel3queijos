@@ -11,14 +11,8 @@
 </a>
 <div align="center">
   <br>
-
   <a style="text-decoration: none;" href="https://emanuel3queijos.github.io/bonfireWebsite/github.html">
-      
   <img width="350px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel3queijos&layout=compact&hide_border=true&title_color=A65FF9&text_color=A65FF9&bg_color=0d1117"/>
-  </a>
-
-  <a style="text-decoration: none;" href="https://Emanuel3queijos.github.io/bonfireWebsite/index.html">
-    <img src="https://user-images.githubusercontent.com/101946589/235402029-d2fe3eac-5c66-404a-a6b4-4bdc8c2e1948.gif">
   </a>
 </div>
 
@@ -39,10 +33,15 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F70000&center=true&width=435&lines=Obrigada+por+ler;Volte+Sempre+S2" alt="Typing SVG" /></a>  <br>
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=23&duration=6000&pause=1000&color=900000&center=true&repeat=false&width=435&lines=Obrigada+por+ler" alt="Typing SVG" /></a>
+ <br>
   <br>
-  <a style="text-decoration: none;" href="https://Emanuel3queijos.github.io/heart/heart.html">
-    <img height="130px" src="https://user-images.githubusercontent.com/101946589/235334767-6ee68318-2daf-483a-8f83-c22e23cd7454.png">
+
+  <a style="text-decoration: none;" href="https://Emanuel3queijos.github.io/bonfireWebsite/index.html">
+    <img src="https://user-images.githubusercontent.com/101946589/235402029-d2fe3eac-5c66-404a-a6b4-4bdc8c2e1948.gif">
   </a>
+
+  
 </div>  
 <br>
