@@ -6,7 +6,7 @@
 ## Linguagens e Ferramentas:
 <a href="https://www.youtube.com/watch?v=amXl7FG7J4c&ab_channel=4yvn">
     <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,idea,pycharm,python,aws,notion,postgresql,sqlite,angular,html,scss,typescript,javascript,bootstrap&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,idea,pycharm,python,aws,notion,latex,postgresql,sqlite,angular,html,scss,typescript,javascript,bootstrap&theme=light" />
 </div>
 </a>
 <div align="center">
