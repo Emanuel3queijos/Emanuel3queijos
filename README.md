@@ -4,7 +4,7 @@
 
 
 ## Linguagens e Ferramentas:
-<a href="https://www.youtube.com/watch?v=amXl7FG7J4c&ab_channel=4yvn">
+<a href="#">
     <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,postman,idea,pycharm,python,aws,notion,latex,postgresql,sqlite,angular,html,scss,typescript,javascript,bootstrap&theme=dark" />
 </div>
