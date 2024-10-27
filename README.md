@@ -39,8 +39,7 @@
 
 <div align="center">
 
-  OBRIGADA POR LER S2
-  <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F70000&center=true&width=435&lines=Obrigada+por+ler;Volte+Sempre+S2" alt="Typing SVG" /></a>  <br>
   <br>
   <a style="text-decoration: none;" href="https://Emanuel3queijos.github.io/heart/heart.html">
     <img height="130px" src="https://user-images.githubusercontent.com/101946589/235334767-6ee68318-2daf-483a-8f83-c22e23cd7454.png">
