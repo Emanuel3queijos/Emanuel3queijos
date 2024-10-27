@@ -24,24 +24,11 @@
 <a href="https://www.linkedin.com/in/emanuel-almeida-5617b7232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://wa.me/5571983838579"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link"></a>
 <a style="text-decoration: none;" href="mailto:emanuel.almeida@ucsal.edu.br"><img                 src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
-
-
-  
 </div>
 <br>
-
-
 <div align="center">
-
-
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=23&duration=6000&pause=1000&color=900000&center=true&repeat=false&width=435&lines=Obrigada+por+ler" alt="Typing SVG" /></a>
- <br>
-  <br>
-
-  <a style="text-decoration: none;" href="https://Emanuel3queijos.github.io/bonfireWebsite/index.html">
-    <img src="https://user-images.githubusercontent.com/101946589/235402029-d2fe3eac-5c66-404a-a6b4-4bdc8c2e1948.gif">
+  <a style="text-decoration: none;" href="https://Emanuel3queijos.github.io/heart/heart.html">
+    <img height="130px" src="https://user-images.githubusercontent.com/101946589/235334767-6ee68318-2daf-483a-8f83-c22e23cd7454.png">
   </a>
-
-  
-</div>  
+</div> 
 <br>
