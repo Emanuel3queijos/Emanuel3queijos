@@ -6,7 +6,7 @@
 ## Linguagens e Ferramentas:
 <a href="#">
     <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,postman,idea,pycharm,python,aws,notion,latex,postgresql,sqlite,angular,html,scss,typescript,javascript,bootstrap&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postman,idea,pycharm,python,aws,notion,md,latex,postgresql,sqlite,angular,html,scss,typescript,javascript,bootstrap&theme=dark" />
 </div>
 </a>
 <div align="center">
