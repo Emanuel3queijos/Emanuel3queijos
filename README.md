@@ -1,7 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=900000FF&height=120&section=top"/>
-
-
-## Linguagens e Ferramentas:
 <a href="#">
     <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,postman,idea,vscode,pycharm,androidstudio,python,aws,notion,git,npm,github,md,latex,postgresql,mysql,sqlite,angular,html,scss,typescript,javascript,bootstrap&theme=dark" />
