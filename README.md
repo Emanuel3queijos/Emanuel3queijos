@@ -3,12 +3,12 @@
     <img src="https://skillicons.dev/icons?i=java,spring,postman,idea,vscode,pycharm,androidstudio,python,aws,notion,git,npm,github,md,latex,postgresql,mysql,sqlite,angular,html,scss,typescript,javascript,bootstrap&theme=dark" />
 </div>
 </a>
-<div align="center">
+<!-- <div align="center">
   <br>
   <a style="text-decoration: none;" href="https://emanuel3queijos.github.io/bonfireWebsite/github.html">
   <img width="350px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel3queijos&layout=compact&hide_border=true&title_color=A65FF9&text_color=A65FF9&bg_color=0d1117"/>
   </a>
-</div>
+</div> -->
 
 <div align="center">
   <a style="text-decoration: none;" href="https://Emanuel3queijos.github.io/heart/heart.html">
@@ -16,3 +16,4 @@
   </a>
 </div> 
 <br>
+
