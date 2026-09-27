@@ -1,8 +1,8 @@
-<a href="#">
+<!-- <a href="#">
     <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,postman,idea,vscode,pycharm,androidstudio,python,aws,notion,git,npm,github,md,latex,postgresql,mysql,sqlite,angular,html,scss,typescript,javascript,bootstrap&theme=dark" />
 </div>
-</a>
+</a> -->
 <!-- <div align="center">
   <br>
   <a style="text-decoration: none;" href="https://emanuel3queijos.github.io/bonfireWebsite/github.html">
